@@ -2,6 +2,13 @@
 
 A Python-based tool for analyzing cryptocurrency price data, generating statistics, and creating interactive visualizations.
 
+This tool performs comprehensive analysis of cryptocurrency price data by:
+- Tracking daily price movements and calculating key metrics
+- Analyzing monthly trends and price ranges
+- Computing volatility and price change statistics
+- Generating interactive visualizations for price trends
+- Providing both detailed CSV reports and visual insights
+
 ## Features
 
 - Load and process cryptocurrency price data from CSV files
